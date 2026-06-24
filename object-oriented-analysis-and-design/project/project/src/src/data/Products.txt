@@ -1,0 +1,2 @@
+1,Kalem,4,2.0,kirilmaz,15.0,5
+2,Kitap,20,5.0,kirilmaz,20.0,10

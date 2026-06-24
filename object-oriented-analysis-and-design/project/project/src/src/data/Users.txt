@@ -1,0 +1,6 @@
+1,ahmet,soyad,musteri,ahmet@gmail.com,1234
+2,mehmet,soyad,kurye,mehmet@gmail.com,5678
+3,ali,yildiz,tedarikci,ali@gmail.com,0123
+4,ayse,beyaz,admin,ayse@gmail.com,2078
+5,rumeysa,ceran,satin_alma_birimi,rumeysa@gmail.com,4596
+6,derya,yilmaz,depo_gorevlisi,derya@gmail.com,3344
