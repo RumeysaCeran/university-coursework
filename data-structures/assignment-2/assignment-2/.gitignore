@@ -1,0 +1,29 @@
+# Derleme çıktıları
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Build klasörleri
+build/
+dist/
+
+# Debug/Release klasörleri
+Debug/
+Release/
+
+# Geçici dosyalar
+*.tmp
+*.log
+
+# Editör dosyaları
+.vscode/
+.idea/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
