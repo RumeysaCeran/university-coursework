@@ -19,10 +19,6 @@ university-coursework/
 * C++
 * C#
 * Java
-* HTML
-* CSS
-* JavaScript
-* SQL
 * Git & GitHub
 
 ## Purpose
